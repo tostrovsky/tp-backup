@@ -1,0 +1,186 @@
+[INFO] 21:46:02:197 iMongoStore/(781:781): Generando archivos...
+[INFO] 21:46:38:479 iMongoStore/(781:781): Archivos creados exitosamente
+[INFO] 21:46:38:498 iMongoStore/(781:1252): 5002
+[INFO] 21:46:38:498 iMongoStore/(781:1252): Servidor listo para recibir al cliente
+[INFO] 21:46:44:032 iMongoStore/(781:1257): Inicie una patota con 5 tripulantes.
+[INFO] 21:46:50:492 iMongoStore/(781:1250): SINCRONIZANDO..
+[INFO] 21:47:02:828 iMongoStore/(781:1250): SINCRONIZANDO..
+[INFO] 21:47:15:069 iMongoStore/(781:1250): SINCRONIZANDO..
+[WARNING] 21:47:21:928 iMongoStore/(781:781): Terminando Programa...
+[INFO] 21:47:26:936 iMongoStore/(1706:1706): File System recuperado exitosamente
+[INFO] 21:47:26:940 iMongoStore/(1706:1709): 5002
+[INFO] 21:47:26:940 iMongoStore/(1706:1709): Servidor listo para recibir al cliente
+[WARNING] 21:47:34:555 iMongoStore/(1706:1706): Terminando Programa...
+[INFO] 21:47:45:192 iMongoStore/(2275:2275): File System recuperado exitosamente
+[INFO] 21:47:45:197 iMongoStore/(2275:2278): 5002
+[INFO] 21:47:45:198 iMongoStore/(2275:2278): Servidor listo para recibir al cliente
+[WARNING] 21:47:50:055 iMongoStore/(2275:2275): Terminando Programa...
+[INFO] 21:48:18:156 iMongoStore/(3333:3333): File System recuperado exitosamente
+[INFO] 21:48:18:180 iMongoStore/(3333:3337): 5002
+[INFO] 21:48:18:180 iMongoStore/(3333:3337): Servidor listo para recibir al cliente
+[INFO] 21:48:30:185 iMongoStore/(3333:3335): SINCRONIZANDO..
+[INFO] 21:48:33:445 iMongoStore/(3333:3355): Inicie una patota con 5 tripulantes.
+[INFO] 21:48:42:398 iMongoStore/(3333:3335): SINCRONIZANDO..
+[WARNING] 21:48:53:402 iMongoStore/(3333:3333): Terminando Programa...
+[INFO] 21:49:08:602 iMongoStore/(4536:4536): File System recuperado exitosamente
+[INFO] 21:49:08:605 iMongoStore/(4536:4539): 5002
+[INFO] 21:49:08:605 iMongoStore/(4536:4539): Servidor listo para recibir al cliente
+[WARNING] 21:49:12:798 iMongoStore/(4536:4536): Terminando Programa...
+[INFO] 21:49:20:659 iMongoStore/(4692:4692): File System recuperado exitosamente
+[INFO] 21:49:20:659 iMongoStore/(4692:4695): 5002
+[INFO] 21:49:20:659 iMongoStore/(4692:4695): Servidor listo para recibir al cliente
+[INFO] 21:49:32:660 iMongoStore/(4692:4693): SINCRONIZANDO..
+[INFO] 21:49:44:822 iMongoStore/(4692:4693): SINCRONIZANDO..
+[WARNING] 21:49:53:708 iMongoStore/(4692:4692): Terminando Programa...
+[INFO] 21:50:02:323 iMongoStore/(8282:8282): File System recuperado exitosamente
+[INFO] 21:50:02:334 iMongoStore/(8282:8285): 5002
+[INFO] 21:50:02:335 iMongoStore/(8282:8285): Servidor listo para recibir al cliente
+[WARNING] 21:50:03:521 iMongoStore/(8282:8282): Terminando Programa...
+[INFO] 21:50:11:116 iMongoStore/(8688:8688): File System recuperado exitosamente
+[INFO] 21:50:11:133 iMongoStore/(8688:8691): 5002
+[INFO] 21:50:11:134 iMongoStore/(8688:8691): Servidor listo para recibir al cliente
+[INFO] 21:50:23:137 iMongoStore/(8688:8689): SINCRONIZANDO..
+[INFO] 21:50:26:803 iMongoStore/(8688:8703): Inicie una patota con 5 tripulantes.
+[INFO] 21:50:35:260 iMongoStore/(8688:8689): SINCRONIZANDO..
+[INFO] 21:50:47:481 iMongoStore/(8688:8689): SINCRONIZANDO..
+[WARNING] 21:50:52:273 iMongoStore/(8688:8688): Terminando Programa...
+[INFO] 21:51:07:347 iMongoStore/(10072:10072): File System recuperado exitosamente
+[INFO] 21:51:07:347 iMongoStore/(10072:10075): 5002
+[INFO] 21:51:07:348 iMongoStore/(10072:10075): Servidor listo para recibir al cliente
+[INFO] 21:51:19:349 iMongoStore/(10072:10073): SINCRONIZANDO..
+[WARNING] 21:51:29:130 iMongoStore/(10072:10072): Terminando Programa...
+[INFO] 21:51:42:613 iMongoStore/(11934:11934): File System recuperado exitosamente
+[INFO] 21:51:42:614 iMongoStore/(11934:11937): 5002
+[INFO] 21:51:42:614 iMongoStore/(11934:11937): Servidor listo para recibir al cliente
+[WARNING] 21:51:44:928 iMongoStore/(11934:11934): Terminando Programa...
+[INFO] 21:51:51:931 iMongoStore/(12340:12340): File System recuperado exitosamente
+[INFO] 21:51:51:932 iMongoStore/(12340:12343): 5002
+[INFO] 21:51:51:932 iMongoStore/(12340:12343): Servidor listo para recibir al cliente
+[WARNING] 21:51:55:657 iMongoStore/(12340:12340): Terminando Programa...
+[INFO] 21:52:02:198 iMongoStore/(12745:12745): File System recuperado exitosamente
+[INFO] 21:52:02:198 iMongoStore/(12745:12748): 5002
+[INFO] 21:52:02:199 iMongoStore/(12745:12748): Servidor listo para recibir al cliente
+[INFO] 21:52:14:200 iMongoStore/(12745:12746): SINCRONIZANDO..
+[INFO] 21:52:18:932 iMongoStore/(12745:12763): Inicie una patota con 3 tripulantes.
+[INFO] 21:52:26:480 iMongoStore/(12745:12746): SINCRONIZANDO..
+[INFO] 21:52:29:917 iMongoStore/(12745:12773): Inicie una patota con 3 tripulantes.
+[INFO] 21:52:38:714 iMongoStore/(12745:12746): SINCRONIZANDO..
+[INFO] 21:52:45:433 iMongoStore/(12745:12789): Inicie una patota con 3 tripulantes.
+[INFO] 21:52:50:916 iMongoStore/(12745:12746): SINCRONIZANDO..
+[INFO] 21:52:52:897 iMongoStore/(12745:12866): Tripulante 2 comenzo a GENERAR_OXIGENO
+[INFO] 21:52:53:304 iMongoStore/(12745:12990): Tripulante 4 comenzo a GENERAR_BASURA
+[INFO] 21:52:53:600 iMongoStore/(12745:13074): Tripulante 5 comenzo a GENERAR_BASURA
+[INFO] 21:52:53:855 iMongoStore/(12745:12872): Tripulante 1 comenzo a GENERAR_OXIGENO
+[INFO] 21:52:53:978 iMongoStore/(12745:13120): Tripulante 6 comenzo a GENERAR_BASURA
+[INFO] 21:52:54:703 iMongoStore/(12745:12945): Tripulante 3 comenzo a GENERAR_OXIGENO
+[INFO] 21:53:03:158 iMongoStore/(12745:12746): SINCRONIZANDO..
+[WARNING] 21:53:12:207 iMongoStore/(12745:12745): Terminando Programa...
+[INFO] 21:53:25:433 iMongoStore/(13432:13432): File System recuperado exitosamente
+[INFO] 21:53:25:433 iMongoStore/(13432:13435): 5002
+[INFO] 21:53:25:434 iMongoStore/(13432:13435): Servidor listo para recibir al cliente
+[WARNING] 21:53:34:409 iMongoStore/(13432:13432): Terminando Programa...
+[INFO] 21:53:49:283 iMongoStore/(14618:14618): File System recuperado exitosamente
+[INFO] 21:53:49:283 iMongoStore/(14618:14621): 5002
+[INFO] 21:53:49:288 iMongoStore/(14618:14621): Servidor listo para recibir al cliente
+[INFO] 21:54:01:288 iMongoStore/(14618:14619): SINCRONIZANDO..
+[WARNING] 21:54:01:583 iMongoStore/(14618:14618): Terminando Programa...
+[INFO] 21:54:07:010 iMongoStore/(15473:15473): File System recuperado exitosamente
+[INFO] 21:54:07:024 iMongoStore/(15473:15476): 5002
+[INFO] 21:54:07:024 iMongoStore/(15473:15476): Servidor listo para recibir al cliente
+[INFO] 21:54:19:029 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:54:31:222 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:54:43:489 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:54:55:797 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:55:08:036 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:55:20:291 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:55:32:528 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:55:44:734 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:55:56:922 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:56:09:107 iMongoStore/(15473:15474): SINCRONIZANDO..
+[INFO] 21:56:21:314 iMongoStore/(15473:15474): SINCRONIZANDO..
+[WARNING] 21:56:29:350 iMongoStore/(15473:15473): Terminando Programa...
+[INFO] 21:56:47:677 iMongoStore/(15623:15623): File System recuperado exitosamente
+[INFO] 21:56:47:677 iMongoStore/(15623:15626): 5002
+[INFO] 21:56:47:677 iMongoStore/(15623:15626): Servidor listo para recibir al cliente
+[INFO] 21:56:59:678 iMongoStore/(15623:15624): SINCRONIZANDO..
+[INFO] 21:57:04:811 iMongoStore/(15623:16021): Inicie una patota con 3 tripulantes.
+[INFO] 21:57:11:841 iMongoStore/(15623:15624): SINCRONIZANDO..
+[INFO] 21:57:13:826 iMongoStore/(15623:16030): Inicie una patota con 3 tripulantes.
+[INFO] 21:57:24:056 iMongoStore/(15623:15624): SINCRONIZANDO..
+[WARNING] 21:57:36:226 iMongoStore/(15623:15623): Terminando Programa...
+[INFO] 21:57:49:810 iMongoStore/(17718:17718): File System recuperado exitosamente
+[INFO] 21:57:49:811 iMongoStore/(17718:17721): 5002
+[INFO] 21:57:49:811 iMongoStore/(17718:17721): Servidor listo para recibir al cliente
+[INFO] 21:58:01:813 iMongoStore/(17718:17719): SINCRONIZANDO..
+[WARNING] 21:58:01:945 iMongoStore/(17718:17718): Terminando Programa...
+[INFO] 21:58:07:874 iMongoStore/(18534:18534): File System recuperado exitosamente
+[INFO] 21:58:07:888 iMongoStore/(18534:18537): 5002
+[INFO] 21:58:07:888 iMongoStore/(18534:18537): Servidor listo para recibir al cliente
+[WARNING] 21:58:13:861 iMongoStore/(18534:18534): Terminando Programa...
+[INFO] 21:58:27:304 iMongoStore/(19583:19583): File System recuperado exitosamente
+[INFO] 21:58:27:304 iMongoStore/(19583:19586): 5002
+[INFO] 21:58:27:305 iMongoStore/(19583:19586): Servidor listo para recibir al cliente
+[INFO] 21:58:39:309 iMongoStore/(19583:19584): SINCRONIZANDO..
+[INFO] 21:58:42:160 iMongoStore/(19583:19598): Inicie una patota con 6 tripulantes.
+[INFO] 21:58:51:499 iMongoStore/(19583:19584): SINCRONIZANDO..
+[INFO] 21:59:03:760 iMongoStore/(19583:19584): SINCRONIZANDO..
+[WARNING] 21:59:11:986 iMongoStore/(19583:19583): Terminando Programa...
+[INFO] 21:59:22:731 iMongoStore/(20409:20409): File System recuperado exitosamente
+[INFO] 21:59:22:736 iMongoStore/(20409:20412): 5002
+[INFO] 21:59:22:736 iMongoStore/(20409:20412): Servidor listo para recibir al cliente
+[WARNING] 21:59:24:364 iMongoStore/(20409:20409): Terminando Programa...
+[INFO] 21:59:33:021 iMongoStore/(20430:20430): Generando archivos...
+[INFO] 21:59:51:220 iMongoStore/(20430:20430): Archivos creados exitosamente
+[INFO] 21:59:51:220 iMongoStore/(20430:22879): 5002
+[INFO] 21:59:51:220 iMongoStore/(20430:22879): Servidor listo para recibir al cliente
+[INFO] 22:00:03:221 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:00:15:696 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:00:27:936 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:00:40:169 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:00:52:381 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:01:00:583 iMongoStore/(20430:23324): Inicie una patota con 3 tripulantes.
+[INFO] 22:01:04:581 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:01:09:470 iMongoStore/(20430:23333): Inicie una patota con 3 tripulantes.
+[INFO] 22:01:16:774 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:01:18:692 iMongoStore/(20430:23345): Inicie una patota con 3 tripulantes.
+[INFO] 22:01:29:002 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:01:41:354 iMongoStore/(20430:22877): SINCRONIZANDO..
+[INFO] 22:01:53:520 iMongoStore/(20430:22877): SINCRONIZANDO..
+[WARNING] 22:01:54:270 iMongoStore/(20430:20430): Terminando Programa...
+[INFO] 22:07:24:062 iMongoStore/(24172:24172): File System recuperado exitosamente
+[INFO] 22:07:24:100 iMongoStore/(24172:24175): 5002
+[INFO] 22:07:24:100 iMongoStore/(24172:24175): Servidor listo para recibir al cliente
+[INFO] 22:07:36:109 iMongoStore/(24172:24173): SINCRONIZANDO..
+[INFO] 22:07:41:990 iMongoStore/(24172:24575): Inicie una patota con 5 tripulantes.
+[INFO] 22:07:48:324 iMongoStore/(24172:24173): SINCRONIZANDO..
+[INFO] 22:08:00:549 iMongoStore/(24172:24173): SINCRONIZANDO..
+[WARNING] 22:08:02:989 iMongoStore/(24172:24172): Terminando Programa...
+[INFO] 22:10:57:470 iMongoStore/(25564:25564): File System recuperado exitosamente
+[INFO] 22:10:57:490 iMongoStore/(25564:25567): 5002
+[INFO] 22:10:57:490 iMongoStore/(25564:25567): Servidor listo para recibir al cliente
+[INFO] 22:11:09:261 iMongoStore/(25564:25579): Inicie una patota con 5 tripulantes.
+[INFO] 22:11:09:496 iMongoStore/(25564:25565): SINCRONIZANDO..
+[INFO] 22:11:21:730 iMongoStore/(25564:25565): SINCRONIZANDO..
+[WARNING] 22:11:33:377 iMongoStore/(25564:25564): Terminando Programa...
+[INFO] 22:11:43:427 iMongoStore/(25999:25999): File System recuperado exitosamente
+[INFO] 22:11:43:428 iMongoStore/(25999:26002): 5002
+[INFO] 22:11:43:428 iMongoStore/(25999:26002): Servidor listo para recibir al cliente
+[INFO] 22:11:55:429 iMongoStore/(25999:26000): SINCRONIZANDO..
+[WARNING] 22:11:58:707 iMongoStore/(25999:25999): Terminando Programa...
+[INFO] 22:12:20:304 iMongoStore/(28980:28980): File System recuperado exitosamente
+[INFO] 22:12:20:317 iMongoStore/(28980:28983): 5002
+[INFO] 22:12:20:317 iMongoStore/(28980:28983): Servidor listo para recibir al cliente
+[INFO] 22:12:32:320 iMongoStore/(28980:28981): SINCRONIZANDO..
+[INFO] 22:12:33:194 iMongoStore/(28980:28992): Inicie una patota con 3 tripulantes.
+[INFO] 22:12:43:366 iMongoStore/(28980:29004): Inicie una patota con 3 tripulantes.
+[INFO] 22:12:44:520 iMongoStore/(28980:28981): SINCRONIZANDO..
+[INFO] 22:12:53:394 iMongoStore/(28980:29013): Inicie una patota con 3 tripulantes.
+[INFO] 22:12:56:744 iMongoStore/(28980:28981): SINCRONIZANDO..
+[INFO] 22:13:00:260 iMongoStore/(28980:29086): Tripulante 2 comenzo a GENERAR_OXIGENO
+[INFO] 22:13:00:760 iMongoStore/(28980:29225): Tripulante 4 comenzo a GENERAR_BASURA
+[INFO] 22:13:00:972 iMongoStore/(28980:29093): Tripulante 1 comenzo a GENERAR_OXIGENO
+[INFO] 22:13:01:145 iMongoStore/(28980:29308): Tripulante 5 comenzo a GENERAR_BASURA
+[INFO] 22:13:01:582 iMongoStore/(28980:29363): Tripulante 6 comenzo a GENERAR_BASURA
+[INFO] 22:13:01:834 iMongoStore/(28980:29185): Tripulante 3 comenzo a GENERAR_OXIGENO
+[INFO] 22:13:08:986 iMongoStore/(28980:28981): SINCRONIZANDO..
+[WARNING] 22:13:09:057 iMongoStore/(28980:28980): Terminando Programa...
